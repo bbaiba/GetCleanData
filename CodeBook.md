@@ -1,11 +1,3 @@
----
-title: 'Codebook'
-output: html_document
----
-
-
-
-
 | Variable name | Variable Description | Values or Explanation |
 | - | - | - |
 | subject | Number of the subject | Integer from 1 to 30 |

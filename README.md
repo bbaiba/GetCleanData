@@ -1,8 +1,3 @@
----
-title: ""
-output: html_document
----
-
 The tidy data set "FinalDataSet.txt" has been created by running the script "run_analysis.R".
 
 Assuming the working direktory is set with data folder "UCI HAR Dataset" in it. What the scrip does is - it:

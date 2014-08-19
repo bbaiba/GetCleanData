@@ -1,6 +1,3 @@
-setwd("C:/Users/BBuceniece/Desktop/coursera/GetCleanData/course_proj")
-
-
 features <- read.table("./UCI HAR Dataset/features.txt")
 names(features) <- c("featno", "featname")
 activlab <- read.table("./UCI HAR Dataset/activity_labels.txt")
